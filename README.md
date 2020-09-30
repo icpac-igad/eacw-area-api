@@ -1,4 +1,4 @@
-# GFW Area API
+# EACW Area API
 
 [![Build Status](https://travis-ci.org/gfw-api/gfw-area.svg?branch=develop)](https://travis-ci.org/gfw-api/gfw-area)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/d4eaa98d51c79d83159b/test_coverage)](https://codeclimate.com/github/gfw-api/gfw-area/test_coverage)
